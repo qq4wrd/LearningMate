@@ -226,6 +226,10 @@
 
 └── 📕 README.md
 ```
+- FR1 : hwp 파일 내 데이터 추출(수식 latex 처리 및 이미지 OCR)
+- FR2 : 음성 인식 모델 학습 및 성능 평가
+- FR3 : Speech-To-Text task 이후 발화 후처리 및 latex 적용 + 하이라이트 요약 영상 생성 파이프라인
+
 
 <br/>
 
